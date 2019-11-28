@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<configuration>
+		<feature automatic="selected" manual="undefined" name="dedagstuhlseminar19481analysis_results"/>
+		<feature automatic="selected" manual="undefined" name="Value from Analysis"/>
+		<feature automatic="selected" manual="undefined" name="Present/Explore Results"/>
+		<feature automatic="selected" manual="undefined" name="Level of Interaction"/>
+		<feature automatic="unselected" manual="undefined" name="Interactive Exploration"/>
+		<feature automatic="undefined" manual="selected" name="Automated Result Presentation"/>
+		<feature automatic="selected" manual="undefined" name="Level of Processing"/>
+		<feature automatic="unselected" manual="undefined" name="Direct 1-to-1 view of results"/>
+		<feature automatic="undefined" manual="selected" name="Transformation of results prior to presentation"/>
+		<feature automatic="undefined" manual="undefined" name="Self-Adaptive Presentation"/>
+		<feature automatic="selected" manual="undefined" name="Exploit"/>
+		<feature automatic="selected" manual="undefined" name="Level of Automation - How we make a change"/>
+		<feature automatic="undefined" manual="selected" name="Human"/>
+		<feature automatic="undefined" manual="undefined" name="Recommender System"/>
+		<feature automatic="undefined" manual="undefined" name="Human Implemented"/>
+		<feature automatic="undefined" manual="undefined" name="Automatic Implementation"/>
+		<feature automatic="undefined" manual="undefined" name="Fully Automated"/>
+		<feature automatic="selected" manual="undefined" name="What we change"/>
+		<feature automatic="undefined" manual="selected" name="System Model"/>
+		<feature automatic="undefined" manual="undefined" name="System"/>
+		<feature automatic="selected" manual="undefined" name="Improve"/>
+		<feature automatic="selected" manual="undefined" name="Level of Automation"/>
+		<feature automatic="undefined" manual="undefined" name="Manual"/>
+		<feature automatic="undefined" manual="selected" name="Full Automation"/>
+		<feature automatic="undefined" manual="undefined" name="Interpretation of User Feedback"/>
+		<feature automatic="selected" manual="undefined" name="Use of Result History"/>
+		<feature automatic="unselected" manual="undefined" name="based on single state"/>
+		<feature automatic="undefined" manual="selected" name="based on multiple prior states"/>
+		<feature automatic="selected" manual="undefined" name="Level of Improvement"/>
+		<feature automatic="undefined" manual="undefined" name="Analysis technique"/>
+		<feature automatic="undefined" manual="selected" name="Analysis instance"/>
+		<feature automatic="selected" manual="undefined" name="What to Improve"/>
+		<feature automatic="undefined" manual="undefined" name="Parameters"/>
+		<feature automatic="undefined" manual="undefined" name="tuning"/>
+		<feature automatic="undefined" manual="undefined" name="calibration"/>
+		<feature automatic="undefined" manual="undefined" name="Method"/>
+		<feature automatic="undefined" manual="selected" name="Focus"/>
+		<feature automatic="undefined" manual="undefined" name="Making information explicitly accessible"/>
+		<feature automatic="undefined" manual="undefined" name="Knowledge base"/>
+	</configuration>
