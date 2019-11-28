@@ -13,8 +13,8 @@
 		<feature automatic="selected" manual="undefined" name="Exploit"/>
 		<feature automatic="selected" manual="undefined" name="Level of Automation - How we make a change"/>
 		<feature automatic="undefined" manual="undefined" name="Human"/>
-		<feature automatic="undefined" manual="selected" name="Recommender System"/>
-		<feature automatic="unselected" manual="undefined" name="Human Implemented"/>
+		<feature automatic="selected" manual="selected" name="Recommender System"/>
+		<feature automatic="undefined" manual="undefined" name="Human Implemented"/>
 		<feature automatic="undefined" manual="selected" name="Automatic Implementation"/>
 		<feature automatic="undefined" manual="undefined" name="Fully Automated"/>
 		<feature automatic="selected" manual="undefined" name="What we change"/>
@@ -38,5 +38,5 @@
 		<feature automatic="undefined" manual="undefined" name="Method"/>
 		<feature automatic="undefined" manual="undefined" name="Focus"/>
 		<feature automatic="undefined" manual="undefined" name="Making information explicitly accessible"/>
-		<feature automatic="undefined" manual="undefined" name="Knowledge base"/>
+		<feature automatic="undefined" manual="selected" name="Knowledge base"/>
 	</configuration>

@@ -15,11 +15,11 @@
 		<feature automatic="undefined" manual="undefined" name="Human"/>
 		<feature automatic="selected" manual="selected" name="Recommender System"/>
 		<feature automatic="undefined" manual="selected" name="Human Implemented"/>
-		<feature automatic="unselected" manual="undefined" name="Automatic Implementation"/>
+		<feature automatic="undefined" manual="undefined" name="Automatic Implementation"/>
 		<feature automatic="undefined" manual="undefined" name="Fully Automated"/>
 		<feature automatic="selected" manual="undefined" name="What we change"/>
-		<feature automatic="undefined" manual="selected" name="System Model"/>
-		<feature automatic="undefined" manual="undefined" name="System"/>
+		<feature automatic="undefined" manual="undefined" name="System Model"/>
+		<feature automatic="undefined" manual="selected" name="System"/>
 		<feature automatic="selected" manual="undefined" name="Improve"/>
 		<feature automatic="selected" manual="undefined" name="Level of Automation"/>
 		<feature automatic="undefined" manual="selected" name="Manual"/>
