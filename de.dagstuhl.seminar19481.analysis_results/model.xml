@@ -18,10 +18,10 @@
 					<and name="Exploit">
 						<and mandatory="true" name="Level of Automation - How we make a change">
 							<feature name="Human"/>
-							<alt name="Recommender System">
+							<or name="Recommender System">
 								<feature name="Human Implemented"/>
 								<feature name="Automatic Implementation"/>
-							</alt>
+							</or>
 							<feature name="Fully Automated"/>
 						</and>
 						<and mandatory="true" name="What we change">
