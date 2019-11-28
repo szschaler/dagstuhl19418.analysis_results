@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<featureModel>
+		<properties/>
+		<struct>
+			<and abstract="true" mandatory="true" name="dedagstuhlseminar19481analysis_results">
+				<and mandatory="true" name="Value from Analysis">
+					<and mandatory="true" name="Present/Explore Results">
+						<alt mandatory="true" name="Level of Interaction">
+							<feature name="Interactive Exploration"/>
+							<feature name="Automated Result Presentation"/>
+						</alt>
+						<alt mandatory="true" name="Level of Processing">
+							<feature name="Direct 1-to-1 view of results"/>
+							<feature name="Transformation of results prior to presentation"/>
+						</alt>
+						<feature name="Self-Adaptive Presentation"/>
+					</and>
+					<and name="Exploit">
+						<and mandatory="true" name="Level of Automation - How we make a change">
+							<feature name="Human"/>
+							<alt name="Recommender System">
+								<feature name="Human Implemented"/>
+								<feature name="Automatic Implementation"/>
+							</alt>
+							<feature name="Fully Automated"/>
+						</and>
+						<and mandatory="true" name="What we change">
+							<feature name="System Model"/>
+							<feature name="System"/>
+						</and>
+					</and>
+					<and name="Improve">
+						<and mandatory="true" name="Level of Automation">
+							<feature name="Manual"/>
+							<feature name="Full Automation"/>
+							<feature name="Interpretation of User Feedback"/>
+						</and>
+						<alt name="Use of Result History">
+							<feature name="based on single state"/>
+							<feature name="based on multiple prior states"/>
+						</alt>
+						<and mandatory="true" name="Level of Improvement">
+							<feature name="Analysis technique"/>
+							<feature name="Analysis instance"/>
+						</and>
+						<and mandatory="true" name="What to Improve">
+							<alt name="Parameters">
+								<feature name="tuning"/>
+								<feature name="calibration"/>
+							</alt>
+							<feature name="Method"/>
+							<feature name="Focus"/>
+							<feature name="Making information explicitly accessible"/>
+						</and>
+					</and>
+				</and>
+			</and>
+		</struct>
+		<constraints/>
+		<calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+		<comments/>
+		<featureOrder userDefined="false"/>
+	</featureModel>
