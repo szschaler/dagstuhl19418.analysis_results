@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 	<configuration>
-		<feature automatic="selected" manual="undefined" name="dedagstuhlseminar19481analysis_results"/>
-		<feature automatic="selected" manual="undefined" name="Value from Analysis"/>
-		<feature automatic="selected" manual="undefined" name="Present/Explore Results"/>
-		<feature automatic="selected" manual="undefined" name="Level of Interaction"/>
-		<feature automatic="unselected" manual="undefined" name="Interactive Exploration"/>
-		<feature automatic="undefined" manual="selected" name="Automated Result Presentation"/>
-		<feature automatic="selected" manual="undefined" name="Level of Processing"/>
+		<feature automatic="selected" manual="undefined" name="Analysis results"/>
+		<feature automatic="selected" manual="undefined" name="Present/Explore results"/>
+		<feature automatic="selected" manual="undefined" name="Level of interaction"/>
+		<feature automatic="unselected" manual="undefined" name="Interactive exploration"/>
+		<feature automatic="undefined" manual="selected" name="Automated result presentation"/>
+		<feature automatic="selected" manual="undefined" name="Level of processing"/>
 		<feature automatic="unselected" manual="undefined" name="Direct 1-to-1 view of results"/>
 		<feature automatic="undefined" manual="selected" name="Transformation of results prior to presentation"/>
-		<feature automatic="undefined" manual="undefined" name="Self-Adaptive Presentation"/>
+		<feature automatic="undefined" manual="undefined" name="Self-adaptive presentation"/>
 		<feature automatic="selected" manual="undefined" name="Exploit"/>
-		<feature automatic="selected" manual="undefined" name="Level of Automation - How we make a change"/>
-		<feature automatic="undefined" manual="undefined" name="Human"/>
-		<feature automatic="selected" manual="selected" name="Recommender System"/>
-		<feature automatic="unselected" manual="undefined" name="Human Implemented"/>
-		<feature automatic="undefined" manual="selected" name="Automatic Implementation"/>
-		<feature automatic="undefined" manual="undefined" name="Fully Automated"/>
-		<feature automatic="selected" manual="undefined" name="What we change"/>
-		<feature automatic="undefined" manual="selected" name="System Model"/>
+		<feature automatic="selected" manual="undefined" name="Level of automation "/>
+		<feature automatic="undefined" manual="undefined" name="Manual "/>
+		<feature automatic="selected" manual="selected" name="Recommender system"/>
+		<feature automatic="unselected" manual="undefined" name="Human implemented"/>
+		<feature automatic="undefined" manual="selected" name="Automatic implementation"/>
+		<feature automatic="undefined" manual="undefined" name="Fully automated "/>
+		<feature automatic="selected" manual="undefined" name="Target of change"/>
+		<feature automatic="undefined" manual="selected" name="System specification"/>
 		<feature automatic="undefined" manual="undefined" name="System"/>
 		<feature automatic="selected" manual="undefined" name="Improve"/>
-		<feature automatic="selected" manual="undefined" name="Level of Automation"/>
+		<feature automatic="selected" manual="undefined" name="Level of automation"/>
 		<feature automatic="undefined" manual="selected" name="Manual"/>
-		<feature automatic="undefined" manual="undefined" name="Full Automation"/>
-		<feature automatic="undefined" manual="undefined" name="Interpretation of User Feedback"/>
-		<feature automatic="undefined" manual="undefined" name="Use of Result History"/>
-		<feature automatic="undefined" manual="undefined" name="based on single state"/>
-		<feature automatic="undefined" manual="undefined" name="based on multiple prior states"/>
-		<feature automatic="selected" manual="undefined" name="Level of Improvement"/>
+		<feature automatic="undefined" manual="undefined" name="Fully automated"/>
+		<feature automatic="undefined" manual="undefined" name="Interpretation of user feedback"/>
+		<feature automatic="undefined" manual="undefined" name="Use of result history"/>
+		<feature automatic="undefined" manual="undefined" name="Based on single state"/>
+		<feature automatic="undefined" manual="undefined" name="Based on multiple prior states"/>
+		<feature automatic="selected" manual="undefined" name="Subject of improvement"/>
 		<feature automatic="undefined" manual="selected" name="Analysis technique"/>
 		<feature automatic="undefined" manual="undefined" name="Analysis instance"/>
-		<feature automatic="selected" manual="undefined" name="What to Improve"/>
+		<feature automatic="selected" manual="undefined" name="Target of improvement"/>
 		<feature automatic="undefined" manual="undefined" name="Parameters"/>
-		<feature automatic="undefined" manual="undefined" name="tuning"/>
-		<feature automatic="undefined" manual="undefined" name="calibration"/>
+		<feature automatic="undefined" manual="undefined" name="Tuning"/>
+		<feature automatic="undefined" manual="undefined" name="Calibration"/>
 		<feature automatic="undefined" manual="undefined" name="Method"/>
 		<feature automatic="undefined" manual="undefined" name="Focus"/>
 		<feature automatic="undefined" manual="undefined" name="Making information explicitly accessible"/>
