@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-	<configuration>
-		<feature automatic="selected" manual="undefined" name="Analysis results"/>
-		<feature automatic="selected" manual="undefined" name="Present/Explore results"/>
-		<feature automatic="selected" manual="undefined" name="Level of interaction"/>
-		<feature automatic="undefined" manual="selected" name="Interactive exploration"/>
-		<feature automatic="unselected" manual="undefined" name="Automated result presentation"/>
-		<feature automatic="selected" manual="undefined" name="Level of processing"/>
-		<feature automatic="undefined" manual="selected" name="Direct 1-to-1 view of results"/>
-		<feature automatic="unselected" manual="undefined" name="Transformation of results prior to presentation"/>
-		<feature automatic="undefined" manual="undefined" name="Self-adaptive presentation"/>
-		<feature automatic="selected" manual="undefined" name="Exploit"/>
-		<feature automatic="selected" manual="undefined" name="Level of automation "/>
-		<feature automatic="undefined" manual="selected" name="Manual "/>
-		<feature automatic="undefined" manual="undefined" name="Recommender system"/>
-		<feature automatic="undefined" manual="undefined" name="Human implemented"/>
-		<feature automatic="undefined" manual="undefined" name="Automatic implementation"/>
-		<feature automatic="undefined" manual="undefined" name="Fully automated "/>
-		<feature automatic="selected" manual="undefined" name="Target of change"/>
-		<feature automatic="undefined" manual="selected" name="System specification"/>
-		<feature automatic="undefined" manual="undefined" name="System"/>
-		<feature automatic="undefined" manual="undefined" name="Improve"/>
-		<feature automatic="undefined" manual="undefined" name="Level of automation"/>
-		<feature automatic="undefined" manual="undefined" name="Manual"/>
-		<feature automatic="undefined" manual="undefined" name="Fully automated"/>
-		<feature automatic="undefined" manual="undefined" name="Interpretation of user feedback"/>
-		<feature automatic="undefined" manual="undefined" name="Use of result history"/>
-		<feature automatic="undefined" manual="undefined" name="Based on single state"/>
-		<feature automatic="undefined" manual="undefined" name="Based on multiple prior states"/>
-		<feature automatic="undefined" manual="undefined" name="Subject of improvement"/>
-		<feature automatic="undefined" manual="undefined" name="Analysis technique"/>
-		<feature automatic="undefined" manual="undefined" name="Analysis instance"/>
-		<feature automatic="undefined" manual="undefined" name="Target of improvement"/>
-		<feature automatic="undefined" manual="undefined" name="Parameters"/>
-		<feature automatic="undefined" manual="undefined" name="Tuning"/>
-		<feature automatic="undefined" manual="undefined" name="Calibration"/>
-		<feature automatic="undefined" manual="undefined" name="Method"/>
-		<feature automatic="undefined" manual="undefined" name="Focus"/>
-		<feature automatic="undefined" manual="undefined" name="Making information explicitly accessible"/>
-		<feature automatic="undefined" manual="undefined" name="Knowledge base"/>
-	</configuration>
+<configuration>
+	<feature automatic="selected" name="Analysis results"/>
+	<feature automatic="selected" name="Present"/>
+	<feature automatic="selected" name="Level of interaction"/>
+	<feature manual="selected" name="Interactive exploration"/>
+	<feature automatic="unselected" name="Automated result presentation"/>
+	<feature automatic="selected" name="Level of processing"/>
+	<feature manual="selected" name="Direct 1-to-1 view of results"/>
+	<feature automatic="unselected" name="Transformation of results prior to presentation"/>
+	<feature name="Self-adaptive presentation"/>
+	<feature automatic="selected" name="Improve"/>
+	<feature automatic="selected" name="Level of automation "/>
+	<feature manual="selected" name="Manual "/>
+	<feature name="Recommender system"/>
+	<feature name="Human implemented"/>
+	<feature name="Automatic implementation"/>
+	<feature name="Fully automated "/>
+	<feature automatic="selected" name="Target of change"/>
+	<feature manual="selected" name="System specification"/>
+	<feature name="System"/>
+	<feature automatic="selected" name="Refine"/>
+	<feature name="Level of automation"/>
+	<feature name="Manual"/>
+	<feature name="Interpretation of user feedback"/>
+	<feature name="Fully automated"/>
+	<feature name="Use of result history"/>
+	<feature name="Based on single state"/>
+	<feature name="Based on multiple prior states"/>
+	<feature name="Subject of refinement"/>
+	<feature name="Analysis technique"/>
+	<feature name="Analysis instance"/>
+	<feature name="Target of refinement"/>
+	<feature name="Parameters"/>
+	<feature name="Tuning"/>
+	<feature name="Calibration"/>
+	<feature name="Focus"/>
+	<feature name="Making information explicitly accessible"/>
+	<feature name="Knowledge base"/>
+	<feature name="Method"/>
+</configuration>
