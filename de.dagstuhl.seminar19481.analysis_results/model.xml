@@ -51,7 +51,7 @@
 					<feature name="Analysis instance"/>
 				</or>
 				<or abstract="true" mandatory="true" name="Target of refinement">
-					<alt name="Parameters">
+					<alt abstract="true" name="Parameters">
 						<feature name="Tuning"/>
 						<feature name="Calibration"/>
 					</alt>
