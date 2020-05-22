@@ -23,7 +23,7 @@
 	<feature automatic="selected" name="Level of automation"/>
 	<feature manual="selected" name="Manual"/>
 	<feature name="Interpretation of user feedback"/>
-	<feature name="Fully automated"/>
+	<feature manual="selected" name="Fully automated"/>
 	<feature name="Use of result history"/>
 	<feature name="Based on single state"/>
 	<feature name="Based on multiple prior states"/>
@@ -31,9 +31,9 @@
 	<feature name="Analysis technique"/>
 	<feature manual="selected" name="Analysis instance"/>
 	<feature automatic="selected" name="Target of refinement"/>
-	<feature name="Parameters"/>
+	<feature automatic="selected" name="Parameters"/>
 	<feature manual="selected" name="Tuning"/>
-	<feature name="Calibration"/>
+	<feature automatic="unselected" name="Calibration"/>
 	<feature name="Focus"/>
 	<feature name="Making information explicitly accessible"/>
 	<feature name="Knowledge base"/>
