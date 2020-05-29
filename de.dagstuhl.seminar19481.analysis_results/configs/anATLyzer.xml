@@ -18,21 +18,21 @@
 	<feature automatic="selected" name="Target of change"/>
 	<feature name="System specification"/>
 	<feature manual="selected" name="System"/>
-	<feature name="Refine"/>
-	<feature name="Level of automation"/>
-	<feature name="Manual"/>
+	<feature automatic="selected" name="Refine"/>
+	<feature automatic="selected" name="Level of automation"/>
+	<feature manual="selected" name="Manual"/>
 	<feature name="Interpretation of user feedback"/>
-	<feature name="Fully automated"/>
+	<feature manual="selected" name="Fully automated"/>
 	<feature name="Use of result history"/>
 	<feature name="Based on single state"/>
 	<feature name="Based on multiple prior states"/>
-	<feature name="Subject of refinement"/>
+	<feature automatic="selected" name="Subject of refinement"/>
 	<feature name="Analysis technique"/>
-	<feature name="Analysis instance"/>
-	<feature name="Target of refinement"/>
-	<feature name="Parameters"/>
-	<feature name="Tuning"/>
-	<feature name="Calibration"/>
+	<feature manual="selected" name="Analysis instance"/>
+	<feature automatic="selected" name="Target of refinement"/>
+	<feature automatic="selected" name="Parameters"/>
+	<feature manual="selected" name="Tuning"/>
+	<feature automatic="unselected" name="Calibration"/>
 	<feature name="Focus"/>
 	<feature name="Making information explicitly accessible"/>
 	<feature name="Knowledge base"/>
