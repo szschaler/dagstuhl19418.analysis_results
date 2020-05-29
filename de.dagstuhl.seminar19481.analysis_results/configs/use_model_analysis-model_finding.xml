@@ -8,7 +8,6 @@
 	<feature automatic="selected" name="Level of processing"/>
 	<feature name="Direct 1-to-1 view of results"/>
 	<feature manual="selected" name="Transformation of results prior to presentation"/>
-	<feature name="Self-adaptive presentation"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>
 	<feature manual="selected" name="Manual "/>
@@ -24,9 +23,7 @@
 	<feature name="Manual"/>
 	<feature name="Interpretation of user feedback"/>
 	<feature manual="selected" name="Fully automated"/>
-	<feature automatic="selected" name="Use of result history"/>
-	<feature automatic="unselected" name="Based on single state"/>
-	<feature manual="selected" name="Based on multiple prior states"/>
+	<feature name="Use of result history"/>
 	<feature automatic="selected" name="Subject of refinement"/>
 	<feature name="Analysis technique"/>
 	<feature manual="selected" name="Analysis instance"/>

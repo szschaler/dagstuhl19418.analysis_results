@@ -41,10 +41,7 @@
 					<feature name="Interpretation of user feedback"/>
 					<feature name="Fully automated"/>
 				</or>
-				<alt abstract="true" name="Use of result history">
-					<feature name="Based on single state"/>
-					<feature name="Based on multiple prior states"/>
-				</alt>
+				<feature name="Use of result history"/>
 				<or abstract="true" mandatory="true" name="Subject of refinement">
 					<feature name="Analysis technique"/>
 					<feature name="Analysis instance"/>
