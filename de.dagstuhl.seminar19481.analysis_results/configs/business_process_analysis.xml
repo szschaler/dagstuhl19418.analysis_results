@@ -7,13 +7,11 @@
 	<feature automatic="unselected" name="Automated result presentation"/>
 	<feature automatic="selected" name="Level of processing"/>
 	<feature manual="selected" name="Direct 1-to-1 view of results"/>
-	<feature automatic="unselected" name="Transformation of results prior to presentation"/>
-	<feature name="Format of presentation"/>
-	<feature name="Text"/>
-	<feature name="Text file"/>
-	<feature name="Graphical"/>
+	<feature name="Transformation of results prior to presentation"/>
+	<feature automatic="selected" name="Format of presentation"/>
+	<feature name="Textual"/>
+	<feature manual="selected" name="Graphical"/>
 	<feature name="Tabular"/>
-	<feature name="Visual Metaphor"/>
 	<feature name="Other"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>
@@ -25,7 +23,7 @@
 	<feature automatic="selected" name="Target of change"/>
 	<feature manual="selected" name="System specification"/>
 	<feature name="System"/>
-	<feature automatic="selected" name="Refine"/>
+	<feature name="Refine"/>
 	<feature name="Level of automation"/>
 	<feature name="Manual"/>
 	<feature name="Interpretation of user feedback"/>

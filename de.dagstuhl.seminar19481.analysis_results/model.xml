@@ -21,11 +21,9 @@
 					<feature name="Transformation of results prior to presentation"/>
 				</or>
 				<or abstract="true" mandatory="true" name="Format of presentation">
-					<feature name="Text"/>
-					<feature name="Text file"/>
+					<feature name="Textual"/>
 					<feature name="Graphical"/>
 					<feature name="Tabular"/>
-					<feature name="Visual Metaphor"/>
 					<feature name="Other"/>
 				</or>
 			</and>

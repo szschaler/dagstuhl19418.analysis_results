@@ -7,29 +7,27 @@
 	<feature manual="selected" name="Automated result presentation"/>
 	<feature automatic="selected" name="Level of processing"/>
 	<feature manual="selected" name="Direct 1-to-1 view of results"/>
-	<feature automatic="unselected" name="Transformation of results prior to presentation"/>
-	<feature name="Format of presentation"/>
-	<feature name="Text"/>
-	<feature name="Text file"/>
+	<feature name="Transformation of results prior to presentation"/>
+	<feature automatic="selected" name="Format of presentation"/>
+	<feature manual="selected" name="Textual"/>
 	<feature name="Graphical"/>
 	<feature name="Tabular"/>
-	<feature name="Visual Metaphor"/>
 	<feature name="Other"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>
-	<feature automatic="unselected" name="Manual "/>
+	<feature name="Manual "/>
 	<feature automatic="selected" manual="selected" name="Recommender system"/>
 	<feature name="Human implemented"/>
 	<feature manual="selected" name="Automatic implementation"/>
-	<feature automatic="unselected" name="Fully automated "/>
+	<feature name="Fully automated "/>
 	<feature automatic="selected" name="Target of change"/>
 	<feature manual="selected" name="System specification"/>
 	<feature name="System"/>
 	<feature automatic="selected" name="Refine"/>
 	<feature automatic="selected" name="Level of automation"/>
-	<feature automatic="unselected" name="Manual"/>
+	<feature name="Manual"/>
 	<feature manual="selected" name="Interpretation of user feedback"/>
-	<feature automatic="unselected" name="Fully automated"/>
+	<feature name="Fully automated"/>
 	<feature name="Use of result history"/>
 	<feature automatic="selected" name="Subject of refinement"/>
 	<feature manual="selected" name="Analysis technique"/>

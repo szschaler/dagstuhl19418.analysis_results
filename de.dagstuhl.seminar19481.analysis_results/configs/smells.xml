@@ -6,20 +6,18 @@
 	<feature automatic="unselected" name="Interactive exploration"/>
 	<feature manual="selected" name="Automated result presentation"/>
 	<feature automatic="selected" name="Level of processing"/>
-	<feature automatic="unselected" name="Direct 1-to-1 view of results"/>
+	<feature name="Direct 1-to-1 view of results"/>
 	<feature manual="selected" name="Transformation of results prior to presentation"/>
-	<feature name="Format of presentation"/>
-	<feature name="Text"/>
-	<feature name="Text file"/>
+	<feature automatic="selected" name="Format of presentation"/>
+	<feature manual="selected" name="Textual"/>
 	<feature name="Graphical"/>
 	<feature name="Tabular"/>
-	<feature name="Visual Metaphor"/>
 	<feature name="Other"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>
 	<feature name="Manual "/>
 	<feature automatic="selected" manual="selected" name="Recommender system"/>
-	<feature automatic="unselected" name="Human implemented"/>
+	<feature name="Human implemented"/>
 	<feature manual="selected" name="Automatic implementation"/>
 	<feature name="Fully automated "/>
 	<feature automatic="selected" name="Target of change"/>

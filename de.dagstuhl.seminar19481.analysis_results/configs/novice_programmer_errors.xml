@@ -9,11 +9,9 @@
 	<feature manual="selected" name="Direct 1-to-1 view of results"/>
 	<feature name="Transformation of results prior to presentation"/>
 	<feature automatic="selected" name="Format of presentation"/>
-	<feature manual="selected" name="Text"/>
-	<feature name="Text file"/>
+	<feature manual="selected" name="Textual"/>
 	<feature name="Graphical"/>
 	<feature name="Tabular"/>
-	<feature name="Visual Metaphor"/>
 	<feature name="Other"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>

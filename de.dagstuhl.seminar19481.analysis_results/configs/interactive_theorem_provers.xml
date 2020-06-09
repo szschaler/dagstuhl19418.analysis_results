@@ -8,12 +8,10 @@
 	<feature automatic="selected" name="Level of processing"/>
 	<feature name="Direct 1-to-1 view of results"/>
 	<feature manual="selected" name="Transformation of results prior to presentation"/>
-	<feature name="Format of presentation"/>
-	<feature name="Text"/>
-	<feature name="Text file"/>
+	<feature automatic="selected" name="Format of presentation"/>
+	<feature manual="selected" name="Textual"/>
 	<feature name="Graphical"/>
 	<feature name="Tabular"/>
-	<feature name="Visual Metaphor"/>
 	<feature name="Other"/>
 	<feature automatic="selected" name="Improve"/>
 	<feature automatic="selected" name="Level of automation "/>
